@@ -1,0 +1,6 @@
+name: SharpHoe
+version: ${project.version}
+main: me.anuzsubedi.sharphoe.Main
+api-version: 1.17
+prefix: SharpHoe
+description: Allows players to add sharpness enchantment to hoes.
